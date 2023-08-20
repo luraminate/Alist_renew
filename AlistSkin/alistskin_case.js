@@ -36,7 +36,7 @@ flower_header_append_code += `</div>`;
 flower_header_append_code += `</div>`; 
 flower_header_append_code += `<div class="flower_header_dictum">`; 
 flower_header_append_code += `<p>AlistSkin云盘美化程序</p>`; 
-flower_header_append_code += `<h4>version</h4>`; 
+flower_header_append_code += `<h4>version: v3.1.2</h4>`; 
 flower_header_append_code += `</div>`; 
 flower_header_append_code += `<div class="flower_header_nav"><ul>`; 
 flower_header_append_code += `<li><a href="/"  >首页</a></li>`; 
