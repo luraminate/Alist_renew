@@ -15,7 +15,7 @@ let flower_header_append_code = '';
 let flower_debug = false;
 
 if (note_true) {
-    var flower_console = ["启明星-云盘美化包","https://alistskin.xhto.cn/"];
+    var flower_console = ["Alist云盘美化包"];
     console.log('%c '+flower_console[0]+' %c '+flower_console[1]+' ','padding: 5px 10px; color: #FFF; background-color:#282828; border-radius: 2px 0px 0px 2px;','padding: 5px 10px;color: #FFF; background-image: linear-gradient(to left,#00f2fe,#66ccff); border-radius: 0px 2px 2px 0px;');
 }
 
@@ -29,7 +29,7 @@ function flower_html() {
         let flower_header_left = document.getElementById("root").getElementsByClassName("header")[0].getElementsByClassName("header-left")[0];
         flower_header_append_code += flower_header_left.innerHTML; 
 flower_header_append_code += `<div class="flower_header_self">`; 
-flower_header_append_code += `<h3>启明星</h3>`; 
+flower_header_append_code += `<h3>ReviOS</h3>`; 
 flower_header_append_code += `<div class="flower_header_self_headimg">`; 
 flower_header_append_code += `<img src="http://alistskin.xhto.cn/public/uploads/images/20221004/64697788d909b6d0e902fe089209a2b4.jpeg">`; 
 flower_header_append_code += `</div>`; 
@@ -41,8 +41,6 @@ flower_header_append_code += `</div>`;
 flower_header_append_code += `<div class="flower_header_nav"><ul>`; 
 flower_header_append_code += `<li><a href="/"  >首页</a></li>`; 
 flower_header_append_code += `<li><a href="/"  >相关链接</a></li>`; 
-flower_header_append_code += `<li><a href="https://alistskin.xhto.cn/" target="_blank">AlistSkin社区</a></li>`; 
-flower_header_append_code += `<li><a href="https://www.xhto.cn/" target="_blank">星环博客</a></li>`; 
 flower_header_append_code += `</ul></div>`; 
 flower_header_left.innerHTML = flower_header_append_code; 
   
@@ -122,7 +120,7 @@ setTimeout(function(){
     console.clear("");
     
     if (note_true) {
-        var flower_console = ["启明星-云盘美化包","https://alistskin.xhto.cn/"];
+        var flower_console = ["Alist云盘美化包""];
         console.log('%c '+flower_console[0]+' %c '+flower_console[1]+' ','padding: 5px 10px; color: #FFF; background-color:#282828; border-radius: 2px 0px 0px 2px;','padding: 5px 10px;color: #FFF; background-image: linear-gradient(to left,#00f2fe,#66ccff); border-radius: 0px 2px 2px 0px;');
     }
     
