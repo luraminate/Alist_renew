@@ -1,5 +1,7 @@
-Alist 脚本库自用<a name="TOP"></a>
+Alist 美化脚本库<a name="TOP"></a>
 - - - -
+
+Tip：Live2D 嘉然的夜间模式待修
 
  版权说明 |  ---
  ---- | ----- 
