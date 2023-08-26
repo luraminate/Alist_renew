@@ -1,10 +1,12 @@
 Alist 脚本库自用<a name="TOP"></a>
 - - - -
 
-版权说明
-  ---- | ----- 
- AlistSkin  | [更新](https://alistskin.xhto.cn/renew.html)
- 单元格内容  | 单元格内容 
+ 版权说明 |  ---
+ ---- | ----- 
+ AlistSkin  | [更新](https://alistskin.xhto.cn/renew.html) 
+ Metingjs  | [GitHub地址](https://github.com/metowolf/MetingJS) 
+ Aplayer_fix | 暂无
+ Live2d - 嘉然 | [GitHub地址](https://github.com/journey-ad/blog-img/tree/master/live2d) 
 
  
 # 使用方法 #
