@@ -7,9 +7,13 @@ Alist 脚本库<a name="TOP"></a>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.replaceAll"></script>
 
 ## Alistskin导入 ##
+
+```
 <!-- require Alistskin -->
 <script src="https://cdn.jsdelivr.net/gh/luraminate/Web@main/AlistSkin/alistskin_case.js"></script>
 <link type='text/css' rel="stylesheet" href="https://cdn.jsdelivr.net/gh/luraminate/Web@main/AlistSkin/alistskin_min.css" media='all'>
+```
+
 <!-- require Aplayer -->
 <script src="https://cdn.jsdelivr.net/gh/luraminate/Web@main/AlistSkin/Aplayer_fix.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/luraminate/Web@main/AlistSkin/Aplayer_fix.css">
