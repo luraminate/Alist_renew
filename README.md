@@ -1,4 +1,6 @@
 # Web
+- - - -
+# 使用方法  #
 <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.replaceAll"></script>
 <!-- require Alistskin -->
 <script src="https://cdn.jsdelivr.net/gh/luraminate/Web@main/AlistSkin/alistskin_case.js"></script>
