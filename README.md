@@ -13,7 +13,7 @@ Alist 脚本库<a name="TOP"></a>
 <script src="https://cdn.jsdelivr.net/gh/luraminate/Web@main/AlistSkin/alistskin_case.js"></script>
 <link type='text/css' rel="stylesheet" href="https://cdn.jsdelivr.net/gh/luraminate/Web@main/AlistSkin/alistskin_min.css" media='all'>
 `
-
+#添加音乐播放器 && 美化
 `
 <!-- require Aplayer -->
 <script src="https://cdn.jsdelivr.net/gh/luraminate/Web@main/AlistSkin/Aplayer_fix.js"></script>
