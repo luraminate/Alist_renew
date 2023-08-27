@@ -37,8 +37,8 @@ const initConfig = {
   },
   night: "toggleNightMode()",
   model: [
-    "https://cdn.jsdelivr.net/gh/luraminate/Web@main/live2d/Diana/Diana.model3.json",
-    "https://cdn.jsdelivr.net/gh/luraminate/Web@main/live2d/Ava/Ava.model3.json",
+    "https://cdn.jsdelivr.net/gh/luraminate/Alist_renew@main/live2d/Diana/Diana.model3.json",
+    "https://cdn.jsdelivr.net/gh/luraminate/Alist_renew@main/live2d/Ava/Ava.model3.json",
   ],
   tips: true,
   onModelLoad: onModelLoad
