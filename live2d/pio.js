@@ -173,7 +173,14 @@ var Paul_Pio = function (prop) {
             // 夜间模式
             if (prop.night) {
                 elements.night.onclick = function () {
-                    eval(prop.night);
+                    let flower_cookie = localStorage.getItem('hope-ui-color-mode');
+                        if (flower_cookie == 'light' || !flower_cookie) {
+                            document.body.className = "hope-ui-dark";
+                            localStorage['hope-ui-color-mode'] = 'dark';
+                        }else{
+                            document.body.className = "hope-ui-light";
+                        localStorage['hope-ui-color-mode'] = 'light';
+                        }
                 };
                 elements.night.onmouseover = function () {
                     modules.render("夜间点击这里可以保护眼睛呢");
