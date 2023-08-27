@@ -177,9 +177,11 @@ var Paul_Pio = function (prop) {
                         if (flower_cookie == 'light' || !flower_cookie) {
                             document.body.className = "hope-ui-dark";
                             localStorage['hope-ui-color-mode'] = 'dark';
+                            <meting-js date-theme="dark"></meting-js>
                         }else{
                             document.body.className = "hope-ui-light";
-                        localStorage['hope-ui-color-mode'] = 'light';
+                            localStorage['hope-ui-color-mode'] = 'light';
+                            <meting-js date-theme="white"></meting-js>
                         }
                 };
                 elements.night.onmouseover = function () {
