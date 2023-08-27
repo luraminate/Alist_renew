@@ -124,9 +124,7 @@ var Paul_Pio = function (prop) {
                 else if (hour > 21 && hour <= 23) {
                     text = '已经这么晚了呀，早点休息吧，晚安~';
                 }
-                else {
-                    text = "奇趣保罗说：这个是无法被触发的吧，哈哈";
-                }
+              
 
                 modules.render(text);
             }
@@ -165,7 +163,7 @@ var Paul_Pio = function (prop) {
 
             // 关于我
             elements.info.onclick = function () {
-                window.open(prop.content.link || "https://cbbkk.com");
+                window.open(prop.content.link);
             };
             elements.info.onmouseover = function () {
                 modules.render("想了解更多关于我的信息吗？");
