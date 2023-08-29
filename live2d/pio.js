@@ -176,12 +176,10 @@ var Paul_Pio = function (prop) {
                     let flower_cookie = localStorage.getItem('hope-ui-color-mode');
                         if (flower_cookie == 'light' || !flower_cookie) {
                             document.body.className = "hope-ui-dark";
-                            localStorage['hope-ui-color-mode'] = 'dark';
-                            <meting-js date-theme="dark"></meting-js>
+                            localStorage['hope-ui-color-mode'] = 'dark';         
                         }else{
                             document.body.className = "hope-ui-light";
-                            localStorage['hope-ui-color-mode'] = 'light';
-                            <meting-js date-theme="white"></meting-js>
+                            localStorage['hope-ui-color-mode'] = 'light';                  
                         }
                 };
                 elements.night.onmouseover = function () {
